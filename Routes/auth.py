@@ -13,8 +13,7 @@ def signup():
 def login(email):
     print(email)
     # Login route implementation
-    return email
-    # return render_template('login.html')
+    return render_template('login.html')
 
 @app.route('/mailSender', methods=['POST'])
 def auth():
