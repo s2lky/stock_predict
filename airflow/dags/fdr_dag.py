@@ -37,7 +37,7 @@ def Collect_Stock_Data(market_name:str):
     start_date = end_date - timedelta(days=1)
 
     # Loop through the symbols and fetch data
-    for symbol in symbols[:5]:
+    for symbol in symbols:
         try:
             # Fetch stock data for the specified symbol and date range
             symbol_df = fdr.DataReader(symbol, start=start_date, end=end_date)
