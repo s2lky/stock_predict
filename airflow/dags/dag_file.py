@@ -17,7 +17,7 @@ default_args = {
 dag = DAG(
     'yf_dag',
     default_args=default_args,
-    schedule_interval='00 13 * * *',  # 매 분마다 실행
+    schedule_interval='00 10 * * *',  # 매 분마다 실행
     catchup=False,  # 과거 작업을 재실행하지 않음
     tags=['maybe'],
 )
