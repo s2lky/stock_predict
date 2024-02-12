@@ -74,7 +74,7 @@
 
 3. 웹을 통한 데이터 서빙
 ![web_login](https://github.com/s2lky/stock_predict/assets/132236456/aa08fc69-73ff-47ef-b4cb-d941382186f2)
-![web_request](https://github.com/s2lky/stock_predict/assets/132236456/8c55e373-87c8-4f21-b99f-f1529508b077)
+![web_request](https://github.com/s2lky/stock_predict/assets/132236456/293bd7fb-9267-46dc-8b0a-5b4a0fcc427d)
 
    
 ### 프로젝트 한계 및 개선 방안
