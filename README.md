@@ -70,7 +70,7 @@
 ![airflow](https://github.com/s2lky/stock_predict/assets/132236456/9b43944b-bed5-414c-b8aa-b0877ef75750)
 
 2. 주가 데이터 예측을 위한 모델링
-![modeling](https://github.com/s2lky/stock_predict/assets/132236456/a6929b81-61a6-4974-8944-562beb8e542d)
+![modeling](https://github.com/s2lky/stock_predict/assets/132236456/dde5e19e-0313-43c5-805d-0ebea2d134f4)
 
 3. 웹을 통한 데이터 서빙
 ![web_login](https://github.com/s2lky/stock_predict/assets/132236456/aa08fc69-73ff-47ef-b4cb-d941382186f2)
